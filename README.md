@@ -45,9 +45,6 @@ Visit `http://localhost:5000` in your browser.
 ## Usage
 Interact with the web interface to select stocks and view predictions.
 
-## Contributing
-We welcome contributions. Please fork the repository, make your changes, and submit a pull request.
-
 
 ## Contact
 Questions or feedback? Contact me at fernandofrancojr811@github.com.
